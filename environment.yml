@@ -1,4 +1,4 @@
-name: root
+name: mri_venv
 channels:
   - conda-forge
   - defaults
